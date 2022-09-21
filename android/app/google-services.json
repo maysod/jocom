@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734090747551",
+    "project_id": "jocom-mobile-app",
+    "storage_bucket": "jocom-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734090747551:android:76524ea93f55576fe58caa",
+        "android_client_info": {
+          "package_name": "com.jocom.jocom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734090747551-toqd0v3qfe7uvadcqq8mkb26usg6tljg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-eJS7i9_kSOM574qCKMMGfEmD_-2OWtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734090747551-toqd0v3qfe7uvadcqq8mkb26usg6tljg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

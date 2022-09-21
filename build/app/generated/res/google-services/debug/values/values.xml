@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">734090747551-toqd0v3qfe7uvadcqq8mkb26usg6tljg.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">734090747551</string>
+    <string name="google_api_key" translatable="false">AIzaSyC-eJS7i9_kSOM574qCKMMGfEmD_-2OWtw</string>
+    <string name="google_app_id" translatable="false">1:734090747551:android:76524ea93f55576fe58caa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC-eJS7i9_kSOM574qCKMMGfEmD_-2OWtw</string>
+    <string name="google_storage_bucket" translatable="false">jocom-mobile-app.appspot.com</string>
+    <string name="project_id" translatable="false">jocom-mobile-app</string>
+</resources>

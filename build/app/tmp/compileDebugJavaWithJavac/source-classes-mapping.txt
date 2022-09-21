@@ -1,0 +1,4 @@
+com/jocom/jocom/BuildConfig.java
+ com.jocom.jocom.BuildConfig
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant

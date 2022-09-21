@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\flutter_apps\\2-Jocom\\v1 - live in google\\code\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\mays.SOFTWARE\\.gradle\\caches\\transforms-3\\0236c903f7c61deca0055ddc563c8451\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\flutter_apps\\2-Jocom\\v1 - live in google\\code\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\mays.SOFTWARE\\.gradle\\caches\\transforms-3\\0236c903f7c61deca0055ddc563c8451\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\flutter_apps\\2-Jocom\\v1 - live in google\\code\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\mays.SOFTWARE\\.gradle\\caches\\transforms-3\\0236c903f7c61deca0055ddc563c8451\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\flutter_apps\\2-Jocom\\v1 - live in google\\code\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\mays.SOFTWARE\\.gradle\\caches\\transforms-3\\0236c903f7c61deca0055ddc563c8451\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\flutter_apps\\2-Jocom\\v1 - live in google\\code\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\mays.SOFTWARE\\.gradle\\caches\\transforms-3\\0236c903f7c61deca0055ddc563c8451\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    }
+]
